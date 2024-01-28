@@ -34,7 +34,6 @@ References and Acknowledgments
     Stable Baselines3 - PPO: Documentation
     OpenAI Spinning Up: RL Intro
 
-What a time to be alive!
 Overview
 
 This project is a Reinforcement Learning (RL) application using the gym_super_mario_bros environment. The goal is to train a neural network to play the Super Mario Bros game, leveraging the capabilities of RL to improve performance over time.
